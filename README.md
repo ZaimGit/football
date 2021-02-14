@@ -1,8 +1,7 @@
 # Google Research Football
-## Neue Zeilen einfügen
+##
+Eine weiter Zeile 
 Eine weiter Zeile
-Eine zweite Zeile
-
 
 
 This repository contains an RL environment based on open-source game Gameplay
